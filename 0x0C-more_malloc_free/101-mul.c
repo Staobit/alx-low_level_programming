@@ -101,13 +101,13 @@ str[i] = '\0';
 /**
  * main - multiply two numbers
  * @argc: number of arguments
-OBOBOB * @argv: argument vector
+ * @argv: argument vector
  *
  * Return: zero, or exit status of 98 if failure
-OBOBOB */
+ */
 int main(int argc, char *argv[])
 {
-OBOBOBint l1, l2, ln, ti, i;
+int l1, l2, ln, ti, i;
 char *a;
 char *t;
 char e[] = "Error\n";
